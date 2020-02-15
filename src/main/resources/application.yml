@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: REPLACE_THIS_TEXT_WITH_YOUR_CONNECTION_URI
+      database: test
